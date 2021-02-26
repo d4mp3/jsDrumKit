@@ -7,7 +7,7 @@
 * [Status](#status)
 
 ## General info
-DrumKit by JS
+DrumKit by JS. It can play sounds.
 
 ## Technologies
 * Javascript
